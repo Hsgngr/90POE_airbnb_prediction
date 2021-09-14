@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset (Don't upload a 80 MB dataset)
+.csv
