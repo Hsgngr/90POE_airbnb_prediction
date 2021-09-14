@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Dataset (Don't upload a 80 MB dataset)
-.csv
+*.csv
