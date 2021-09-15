@@ -25,6 +25,14 @@ This repository aims to explain the process of how I handled the project. I used
 
 
 ## Exploratory Data Analysis
+With EDA we can:
+* get comfortable with the data.
+* get domain knowledge
+* check if the data is intuitive
+* try to decode the features
+* determine which features need preprocessing
+
+
 
 ## Data Preprocessing and Feature Engineering
 
