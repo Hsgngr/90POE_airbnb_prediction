@@ -11,8 +11,8 @@ This repository outlines my approach to the 90 POE's Take Home Task. The given d
 - [90POE Data Science Take Home Test](#90poe-data-science-take-home-test-airbnb-price-prediction)
 - [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Preprocessing and Feature Engineering](#data-preprocessing-and-feature-engineering)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Modelling](#data-modelling)
 - [Results](#results)
 
@@ -20,9 +20,10 @@ This repository outlines my approach to the 90 POE's Take Home Task. The given d
 This repository aims to explain the process of how I handled the project. I used jupyter-notebooks to make my data analysis process more visibly clear and interpretable. Since the task has also a presentation, I included some visualizations on the Exploratory Data Analysis part.(EDA)
 
 
-* `eda.ipynb` is the exploratory data analysis notebook.
+* `eda.ipynb` is the exploratory data analysis and preprocessing notebook.
 
 
+## Data Preprocessing and Feature Engineering
 
 ## Exploratory Data Analysis
 With EDA we can:
@@ -32,9 +33,6 @@ With EDA we can:
 * try to decode the features
 * determine which features need preprocessing
 
-
-
-## Data Preprocessing and Feature Engineering
 
 ## Data Modelling
 
