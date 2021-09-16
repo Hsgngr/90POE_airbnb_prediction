@@ -21,7 +21,7 @@ This repository aims to explain the process of how I handled the project. I used
 
 
 * `eda.ipynb` is the exploratory data analysis and preprocessing notebook.
-
+* `training.ipynb` is training of machine learning model for predicting price values also includes feature selection.
 
 ## Data Preprocessing and Feature Engineering
 My steps can be listed as:
