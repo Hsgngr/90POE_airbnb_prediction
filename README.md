@@ -47,7 +47,6 @@ I made this interactive map instead of previous plot where you can also see ever
 <p align="left">
   <img src="https://user-images.githubusercontent.com/32769732/133648909-bd5d16cc-9ede-4f85-a08f-266622fdac39.png">
 </p>
- 
  <p align="left">
   <img src="https://user-images.githubusercontent.com/32769732/133651065-ebd77cbd-d585-4187-b9f4-73a11b888205.png">
 </p>
@@ -63,11 +62,16 @@ Well this is suprising, Kreuzberg seems to have the smallest area however have t
  <p align="left">
   <img src="https://user-images.githubusercontent.com/32769732/133649293-c4097a78-e482-40d7-9d03-dde941c3c1c4.png">
 </p>
+
 Distance to the center of the Berlin. The more it gets close the more price varies. Also There are more available airbnbs at the center. 
 
+ <p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133661676-070d4ac3-997f-4744-8f2a-6462635336a6.png">
+</p>
 
-
-
+ <p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133661609-718ab7dd-bf4d-4a2d-aa04-c4d4a781f561.png">
+</p>
 
 
 
