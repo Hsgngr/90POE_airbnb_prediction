@@ -26,7 +26,16 @@ This repository aims to explain the process of how I handled the project. I used
 ## Data Preprocessing and Feature Engineering
 
 ## Exploratory Data Analysis
+
+### Berlin Map and Neighbourhoods
 ![image](https://user-images.githubusercontent.com/32769732/133525987-ba9d6186-464c-4ca3-838c-0a62e7338e85.png)
+
+Tells us the distribution of all bookable places on airbnb Berlin but it is hard to generalize. Therefore
+I made this interactive map instead of previous plot where you can also see every neighbourhood and their mean prices:
+
+![image](https://user-images.githubusercontent.com/32769732/133593818-26e32231-0363-4360-b4c8-4453c038e24a.png)
+
+
 
 
 
