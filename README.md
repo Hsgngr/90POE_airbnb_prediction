@@ -27,6 +27,12 @@ This repository aims to explain the process of how I handled the project. I used
 
 ## Exploratory Data Analysis
 
+### Amenities Related
+![image](https://user-images.githubusercontent.com/32769732/133608303-822eccf3-e8de-4af1-a8c7-dcc18e8bcaaa.png)
+![image](https://user-images.githubusercontent.com/32769732/133609722-16907c7f-18cb-468c-ad67-3fd8edc5385f.png)
+
+
+
 ### Berlin Map and Neighbourhoods
 ![image](https://user-images.githubusercontent.com/32769732/133525987-ba9d6186-464c-4ca3-838c-0a62e7338e85.png)
 
