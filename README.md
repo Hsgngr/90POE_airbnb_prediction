@@ -28,20 +28,44 @@ This repository aims to explain the process of how I handled the project. I used
 ## Exploratory Data Analysis
 
 ### Amenities Related
-![image](https://user-images.githubusercontent.com/32769732/133608303-822eccf3-e8de-4af1-a8c7-dcc18e8bcaaa.png)
-![image](https://user-images.githubusercontent.com/32769732/133609722-16907c7f-18cb-468c-ad67-3fd8edc5385f.png)
-
-
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133608303-822eccf3-e8de-4af1-a8c7-dcc18e8bcaaa.png">
+</p>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133609722-16907c7f-18cb-468c-ad67-3fd8edc5385f.png">
+</p>
 
 ### Berlin Map and Neighbourhoods
-![image](https://user-images.githubusercontent.com/32769732/133525987-ba9d6186-464c-4ca3-838c-0a62e7338e85.png)
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133525987-ba9d6186-464c-4ca3-838c-0a62e7338e85.png">
+</p>
 
 Tells us the distribution of all bookable places on airbnb Berlin but it is hard to generalize. Therefore
 I made this interactive map instead of previous plot where you can also see every neighbourhood and their mean prices:
 
-![image](https://user-images.githubusercontent.com/32769732/133593818-26e32231-0363-4360-b4c8-4453c038e24a.png)
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133648909-bd5d16cc-9ede-4f85-a08f-266622fdac39.png">
+</p>
+ 
+ <p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133651065-ebd77cbd-d585-4187-b9f4-73a11b888205.png">
+</p>
 
-![image](https://user-images.githubusercontent.com/32769732/133595362-9118d4f0-d533-4b9b-9950-68c1b27e497f.png)
+
+### Accommodations
+ 
+ <p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133595362-9118d4f0-d533-4b9b-9950-68c1b27e497f.png">
+</p>
+Well this is suprising, Kreuzberg seems to have the smallest area however have the most airbnb on Berlin. I think this is because of the socio-cultural effect of Kreuzerberg. I know that area is famous with immigrants and also it is in the centre right next to the historical berlin wall.
+
+ <p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133649293-c4097a78-e482-40d7-9d03-dde941c3c1c4.png">
+</p>
+Distance to the center of the Berlin. The more it gets close the more price varies. Also There are more available airbnbs at the center. 
+
+
 
 
 
