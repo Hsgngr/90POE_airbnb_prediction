@@ -23,6 +23,7 @@ This repository aims to explain the process of how I handled the project. I used
 * `eda.ipynb` is the exploratory data analysis and preprocessing notebook.
 * `training.ipynb` is training of machine learning model for predicting price values also includes feature selection.
 * `nlp.ipynb` is my attempt to predict the room size from the space column of airbnb data by utilizing NLP
+* `data` folder includes raw and processed data
 
 ## Data Preprocessing and Feature Engineering
 My steps can be listed as:
