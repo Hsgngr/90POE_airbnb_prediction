@@ -120,7 +120,7 @@ I used GridSearch to find the optimal parameters:
 ## Future Work
 
 #### Other Datasources
-The data has link in it. Most of the links are broken but some of them can be use for data scraping and get other type of data such as images of places.
+The data has links in the column of listig_url and host_url. Most of the links are broken but some of them can be use for data scraping and get other type of data such as images of properties.
 
 #### Model
 Instead of Xgboost, a neural network can be used to predict the data. We can also create features from text data
