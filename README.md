@@ -42,6 +42,7 @@ Feature Engineering:
 * Create a distance column from properties coordinates to Berlin's centre
 * Create amenities features
 * Create host_verification features
+* Create a property_size features from the text data by regex
 
 
 ## Exploratory Data Analysis
