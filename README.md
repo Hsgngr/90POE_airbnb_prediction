@@ -118,7 +118,15 @@ I used GridSearch to find the optimal parameters:
 </p>
 
 ## Future Work
-I didnt use text columns as much as I want due to the time limit. I would like to investigate more and extract insights from the summary,space,description and even host information columns.
+
+#### Other Datasources
+The data has link in it. Most of the links are broken but some of them can be use for data scraping and get other type of data such as images of places.
+
+#### Model
+Instead of Xgboost, a neural network can be used to predict the data. We can also create features from text data
+
+#### Text
+I would like to explore the text columns and extract more insights especially summary,space and description columns.
 
 Another thing I would like to add is extracting property_size from the text data with Question - Answering Transformers models. I tried one of the huge bert-model which was tuned for Q&A however it didn't give results better than my regex solution.
 
