@@ -13,8 +13,8 @@ This repository outlines my approach to the 90 POE's Take Home Task. The given d
 - [Getting Started](#getting-started)
 - [Data Preprocessing and Feature Engineering](#data-preprocessing-and-feature-engineering)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Modelling](#data-modelling)
-- [Results](#results)
+- [Data Modelling and Results](#data-modelling-and-results)
+- [Future Work](#future-work)
 
 ## Getting Started
 This repository aims to explain the process of how I handled the project. I used jupyter-notebooks to make my data analysis process more visibly clear and interpretable. Since the task has also a presentation, I included some visualizations on the Exploratory Data Analysis part.(EDA)
@@ -95,6 +95,29 @@ Distance to the center of the Berlin. The more it gets close the more price vari
 
 
 
-## Data Modelling
+## Data Modelling and Results
 
-## Results
+I selected XgBoost algorithm for my model due to many reasons:
+* Can Handle Missing Values
+* Easy To Use / Tune
+* Fast
+* Number of hyper-parameters that can be tuned — a primary advantage over gradient boosting machines.
+* Much more interpretable than a neural network, therefore a good start point
+
+I used GridSearch to find the optimal parameters:
+
+  `{'colsample_bytree': 0.6, 'gamma': 0.0, 'learning_rate': 0.05, 'max_depth': 7, 'n_estimators': 400}`
+
+### Results
+
+  `MSE: 26.2054`
+
+ <p align="left">
+  <img src="https://user-images.githubusercontent.com/32769732/133750405-a1ed9f5b-dd02-42a4-91da-fe10741ca4fd.png">
+</p>
+
+## Future Work
+I didnt use text columns as much as I want due to the time limit. I would like to investigate more and extract insights from the summary,space,description and even host information columns.
+
+Another thing I would like to add is extracting property_size from the text data with Question - Answering Transformers models. I tried one of the huge bert-model which was tuned for Q&A however it didn't give results better than my regex solution.
+
