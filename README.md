@@ -21,9 +21,26 @@ This repository aims to explain the process of how I handled the project. I used
 
 
 * `eda.ipynb` is the exploratory data analysis and preprocessing notebook.
-
+* `training.ipynb` is training of machine learning model for predicting price values also includes feature selection.
 
 ## Data Preprocessing and Feature Engineering
+My steps can be listed as:
+
+Preprocessing:
+* Drop useless columns
+* Drop text columns for now
+* Drop 51 rows with many nan values
+* Categorize columns
+* Replace NaN rows in cleaning_fee and security deposit as 0.
+* Remove $ sign from price columns
+* Remove % sign from host_response_rate
+* Remove abnormal prices
+
+Feature Engineering:
+* Create a distance column from properties coordinates to Berlin's centre
+* Create amenities features
+* Create host_verification features
+
 
 ## Exploratory Data Analysis
 
